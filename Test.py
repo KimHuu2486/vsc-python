@@ -1,0 +1,5 @@
+print("hello world!!!")
+print('hello world!!!')
+print(1 + 3)
+print("cplusplus", "python", "java", sep="#", end ="----->")
+print("cplusplus", "python", "java", sep="#")
