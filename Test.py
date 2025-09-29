@@ -55,7 +55,7 @@ print(s)
 print(type(s))
 print(s[0])
 s = '123456789'
-a = int(s);
+a = int(s)
 print(a)
 print(type(a))
 print('\n')
